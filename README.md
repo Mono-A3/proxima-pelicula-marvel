@@ -13,8 +13,8 @@
 
 Este proyecto está disponible en las siguientes plataformas:
 
--   [InfinityFree](http://proxima-pelicula-marvel.infinityfreeapp.com/): Para alojamiento web gratuito.
--   [Zeabur](https://proxima-pelicula-marvel.zeabur.app): Para un despliegue moderno y eficiente.
+-   <a href="http://proxima-pelicula-marvel.infinityfreeapp.com/" target="_blank">InfinityFree</a> Para alojamiento web gratuito.
+-   <a href="https://proxima-pelicula-marvel.zeabur.app" target="_blank">Zeabur</a> Para un despliegue moderno y eficiente.
 
 ## Contribuciones
 
