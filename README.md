@@ -7,7 +7,7 @@
 -   **PHP:** Para la gestión del lado del servidor y procesamiento de datos.
 -   **JavaScript:** Para una experiencia interactiva en el frontend.
 -   **HTML/CSS:** Para el diseño y la estructura de la interfaz.
--   **API:** Utilizamos APIs para obtener datos actualizados sobre las próximas películas (detalles de la API aquí).
+-   **API:** Utilizamos APIs para obtener datos actualizados sobre las próximas películas [detalles de la API aquí](https://github.com/DiljotSG/MCU-Countdown/blob/develop/docs/API.md).
 
 ## Despliegue
 
