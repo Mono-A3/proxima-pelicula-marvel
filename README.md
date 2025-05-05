@@ -1,20 +1,20 @@
 # Próxima Película Marvel 🎬
 
-¡Bienvenido a Próxima Película Marvel! Este proyecto te mantiene al tanto de las próximas películas del universo Marvel. Está desarrollado con tecnologías modernas y está desplegado en plataformas confiables.
+Web informativa que mantiene al usuario al tanto de los próximos estrenos del universo cinematográfico de Marvel. Implementada con PHP y CSS puro, accede dinámicamente a información desde una API externa. Desplegada en InfinityFree, optimizada para bajo consumo de recursos y accesibilidad en cualquier dispositivo.
 
 ## Tecnologías Utilizadas
 
--   **PHP:** Para la gestión del lado del servidor y procesamiento de datos.
--   **JavaScript:** Para una experiencia interactiva en el frontend.
--   **HTML/CSS:** Para el diseño y la estructura de la interfaz.
--   **API:** Utilizamos APIs para obtener datos actualizados sobre las próximas películas [detalles de la API aquí](https://github.com/DiljotSG/MCU-Countdown/blob/develop/docs/API.md).
+- **PHP:** Para la gestión del lado del servidor y procesamiento de datos.
+- **JavaScript:** Para una experiencia interactiva en el frontend.
+- **HTML/CSS:** Para el diseño y la estructura de la interfaz.
+- **API:** Utilizamos APIs para obtener datos actualizados sobre las próximas películas [detalles de la API aquí](https://github.com/DiljotSG/MCU-Countdown/blob/develop/docs/API.md).
 
 ## Despliegue
 
 Este proyecto está disponible en las siguientes plataformas:
 
--   <a href="https://proxima-pelicula-marvel.infinityfreeapp.com/" target="_blank">InfinityFree</a>: Para alojamiento web gratuito.
--   <a href="https://proxima-pelicula-marvel.zeabur.app" target="_blank">Zeabur</a>: Para un despliegue moderno y eficiente.
+- <a href="https://proxima-pelicula-marvel.infinityfreeapp.com/" target="_blank">InfinityFree</a>: Para alojamiento web gratuito.
+- <a href="https://proxima-pelicula-marvel.zeabur.app" target="_blank">Zeabur</a>: Para un despliegue moderno y eficiente.
 
 ## Contribuciones
 
